@@ -17,6 +17,7 @@ This document provides context, conventions, and operating instructions for any 
 The `docs/` folder contains the **frozen game design**. Do NOT modify design without explicit user approval. The design has been through 8+ iteration cycles to reach this state — additional changes risk scope creep.
 
 Key documents:
+- [`docs/00-phase-plan.md`](docs/00-phase-plan.md) — 9-phase master roadmap (start here to know "which phase are we in?")
 - [`docs/01-game-design-document.md`](docs/01-game-design-document.md) — master overview
 - [`docs/02-mechanics.md`](docs/02-mechanics.md) — core gameplay rules
 - [`docs/03-saga-meta.md`](docs/03-saga-meta.md) — life, chapter, episode, star, booster
