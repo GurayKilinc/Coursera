@@ -97,6 +97,7 @@ Açıklığa kavuşturulmalı — design freeze noktasında **NOT** kabul edilen
 
 Bu doküman master overview. Detaylı bilgi için:
 
+- **Faz planı (kod öncesi master roadmap)**: [`00-phase-plan.md`](00-phase-plan.md)
 - **Mekanik kuralları**: [`02-mechanics.md`](02-mechanics.md)
 - **Saga meta sistem**: [`03-saga-meta.md`](03-saga-meta.md)
 - **Karakter detay**: [`04-characters.md`](04-characters.md)

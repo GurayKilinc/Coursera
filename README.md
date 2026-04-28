@@ -107,6 +107,7 @@ POURLE/
 ├── README.md                          (this file)
 ├── CLAUDE.md                          (instructions for Claude)
 ├── docs/
+│   ├── 00-phase-plan.md               (9-phase master roadmap, pre-code)
 │   ├── 01-game-design-document.md     (master design doc)
 │   ├── 02-mechanics.md                (core gameplay mechanics)
 │   ├── 03-saga-meta.md                (life, chapter, episode, star, booster)
@@ -146,15 +147,20 @@ POURLE/
 
 ## 🚀 Production Status
 
-- ✅ Final Game Design Document complete
-- ✅ All Sora/ChatGPT art prompts written (Royal Match smooth render style)
-- ✅ Character cast finalized (Master Octave + Iris + Mochi)
-- ✅ 6-chapter story scenarios written
-- ⏳ Trademark professional search (Trademarkia $99) — pending
-- ⏳ Domain registration (pourle.com / pourle.app) — pending
-- ⏳ Unity project skeleton — week 1 sprint
-- ⏳ MVP playable build — week 4 (Pivot Gate 1)
-- ⏳ Soft launch — week 12 (Türkiye + Brezilya + Almanya)
+Master phase plan: [`docs/00-phase-plan.md`](docs/00-phase-plan.md) (9 fazlık yol haritası, kod öncesi son master plan).
+
+- ✅ **Phase 0** Concept & Naming complete
+- ✅ **Phase 1** Design Freeze complete (30 belge + 3 diagram + 13 art prompt)
+- ⏳ **Phase 2** Foundation — Unity project skeleton (week 1–2, next)
+- ⏳ **Phase 3** MVP playable build — week 3–4 (**Pivot Gate 1**)
+- ⏳ **Phase 4** Mechanic evolution — week 5–7
+- ⏳ **Phase 5** Content & balance — week 8 (**Pivot Gate 2**)
+- ⏳ **Phase 6** Monetization integration — week 9
+- ⏳ **Phase 7** Story & polish — week 10–11
+- ⏳ **Phase 8** Soft launch — week 12 (Türkiye + Brezilya + Almanya, **Pivot Gate 3**)
+- ⏳ **Phase 9** Global ramp — week 16+
+- ⏳ Trademarkia $99 search — paralel Phase 2
+- ⏳ Domain (pourle.com / pourle.app) — pending
 
 ---
 
