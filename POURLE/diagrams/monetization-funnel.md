@@ -52,7 +52,7 @@ pie title Revenue Mix by SKU (Year-1 tahmini)
 ```mermaid
 xychart-beta
     title "ARPPU Distribution (Paying Users)"
-    x-axis [Whale_$50+, Big_$15-50, Mid_$5-15, Small_$1-5]
+    x-axis ["Whale $50+", "Big $15-50", "Mid $5-15", "Small $1-5"]
     y-axis "% of Paying Users" 0 --> 60
     bar [3, 12, 35, 50]
 ```
