@@ -63,7 +63,7 @@ Ball Sort Puzzle'ın dokunsal sıvı dökme tatmini + Wordle'ın zihinsel kelime
 - Mass-market neutral characters (50/50 gender appeal)
 
 ### Pillar 3 — Never-Boring Mechanic Evolution
-30 episode boyunca her 2–3 episode'da yeni mini-mekanik. Locked Caps → Frozen Bottles → Color Transform → Metallic Letters → Lava Bottles → Cosmic Spells. Sürekli tazelik.
+30 episode boyunca her 2–3 episode'da yeni mini-mekanik. Color Transform → Locked Caps → Frozen Bottles → Metallic Letters → Lava Bottles → Cosmic Spells. Sürekli tazelik.
 
 ### Pillar 4 — Story-Driven Retention
 Master Octave (mentor) + Iris (apprentice) + Mochi (cat) cast. 6 chapter boyunca Iris çırak → master arc'ı. Her chapter Octave'in gizemli geçmişinden bir parça açılır. Cliffhanger'lar D7+ retention'ı destekler.
@@ -71,7 +71,7 @@ Master Octave (mentor) + Iris (apprentice) + Mochi (cat) cast. 6 chapter boyunca
 ### Pillar 5 — Solo-Buildable Scope
 - 12 hafta üretim
 - ~120 unique sanat asset (AI + asset store ile yönetilebilir)
-- 150 level (50 hand + 100 procedural + solver test)
+- 150 level (30 hand-designed boss + 120 procedural, BFS solver validated)
 - Asset Store ~$95 + AI görsel ~$50 = düşük dış maliyet
 
 ---

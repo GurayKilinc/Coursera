@@ -123,7 +123,7 @@
 ### Hafta 8 — Polish & Balance
 
 **Hedefler**:
-- 30 hand-designed level + 100 procedural (auto-validated solver)
+- 30 hand-designed boss level (1/episode) + 120 procedural (auto-validated solver)
 - BFS solver — her seviye için optimal hamle hesaplama
 - Star threshold ayarı
 - Difficulty curve check
